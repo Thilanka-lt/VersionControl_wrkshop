@@ -1,4 +1,5 @@
 #This is to demo a commit message
+#this is copied code
 
 nterms = as.integer(readline(prompt="How many terms? "))
 # first two terms
@@ -26,3 +27,6 @@ if(nterms <= 0) {
     }
   }
 }
+
+
+
