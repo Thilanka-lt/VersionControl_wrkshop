@@ -1,3 +1,5 @@
+#This is to demo a commit message
+
 nterms = as.integer(readline(prompt="How many terms? "))
 # first two terms
 n1 = 0
